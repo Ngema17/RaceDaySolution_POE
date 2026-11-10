@@ -12,7 +12,9 @@ This repository contains the final part of the RaceDay POE. The system is split 
 
 ##  Video Demonstration
 A full walkthrough demonstrating the running application, code structure, role-based interfaces, Azure integration, and Docker containerization can be viewed here:
- **[Insert your Unlisted YouTube Video Link Here]**
+
+ [![Main](https://img.youtube.com/vi/b8qpP-CnzEA/0.jpg)](https://www.youtube.com/watch?v=b8qpP-CnzEA)
+
 
 ---
 
@@ -23,8 +25,3 @@ A full walkthrough demonstrating the running application, code structure, role-b
 *   [Visual Studio 2022](https://visualstudio.microsoft.com/) (with ASP.NET and web development workload)
 *   SQL Server (LocalDB or Express)
 *   [Docker Desktop](https://www.docker.com/products/docker-desktop/) (for containerization)
-
-### Local Setup
-1.  Clone this repository:
-    ```bash
-    git clone [Your GitHub Repository Link]

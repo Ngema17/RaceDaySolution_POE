@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="RaceDay.API/RaceDay.API.csproj" />
+  <Project Path="RaceDay.MVC/RaceDay.MVC.csproj" Id="023bbef4-a83c-4810-804a-71e2254639e7" />
+  <Project Path="RaceDay.Tests/RaceDay.Tests.csproj" Id="f45ac95f-609d-4da1-9eb2-67d95691ab51" />
+</Solution>
